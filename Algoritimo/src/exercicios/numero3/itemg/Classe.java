@@ -6,6 +6,7 @@ public class Classe {
 		
 		double numero1 = 666.66d;
 		float numero2 = 123.12f;
-		System.out.println(numero1 * numero2);
+		double resultado = numero1 * numero2;
+		System.out.println(resultado);
 	}
 }

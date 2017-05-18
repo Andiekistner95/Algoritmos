@@ -6,7 +6,7 @@ public class Classe {
 		
 		long numeroA = 55000l;
 		int numeroB = 55;
-		
-		System.out.println(numeroA + numeroB);
+		long soma = numeroA + numeroB;
+		System.out.println(soma);
 	}
 }
