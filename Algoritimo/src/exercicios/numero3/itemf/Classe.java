@@ -1,0 +1,12 @@
+package exercicios.numero3.itemf;
+
+public class Classe {
+
+	public static void main(String[] args) {
+		
+		long numeroA = 55000l;
+		int numeroB = 55;
+		
+		System.out.println(numeroA + numeroB);
+	}
+}
